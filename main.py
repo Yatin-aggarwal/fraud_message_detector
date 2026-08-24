@@ -1,5 +1,5 @@
 import os
-from transformers import pipeline
+from transformers import pipelin
 import pandas as pd
 import random
 import torch 
